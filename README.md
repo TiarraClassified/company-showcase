@@ -1,4 +1,4 @@
-####Company Showcases: Grow, PluralSight, LucidSoftware, Overstock
+<h4>Company Showcases: Grow, PluralSight, LucidSoftware, Overstock</h4>
 </br>
 The idea behind this repo is to give students a concrete goal to strive towards. Multiple studies have shown that if you have a concrete, visualized goal, it is much easier to maintain motivation. A vague goal of "get a job" is not highly motivating to most students. Ergo, the idea is to show students specific, and cool, companies that they can work for after they graduate. Many of these companies have the added bonus of currently employing DevMountain grads. This furthers motivates students by showing them that DevMountain grads do get jobs after they graduate.
 
