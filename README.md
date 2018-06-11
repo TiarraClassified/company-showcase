@@ -12,6 +12,3 @@ https://docs.google.com/presentation/d/13lCpghDtGtdJ-slAP7FGN3eT2VovVgWYCUzXihzA
 <h3>PluralSight:</h3>
 https://docs.google.com/presentation/d/16pFroDoDbMYrgNehllzCw4dVJpCzmKu2wAwZD2Wo12g/edit?usp=sharing
 See if you can sign up for a free trial to show students the assessments they can take.
-
-<h3>LucidSoftware:</h3>
-To be completed
